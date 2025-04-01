@@ -1,6 +1,8 @@
 # April-Fools-2025
 ## Esoteric Programming Languages - Ever Heard of Em?
 
+[Slide Deck](https://slidesgpt.com/l/cpAA)
+
 ## Introduction
 Esoteric Programming Languages are primarily designed to be as unusable as possible.
 Whether they use a non-traditional format for input or compiling, or are designed to be as mind-numbing as possible, these languages range in scope, ideas, and design. 
